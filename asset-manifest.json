@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/varnika234/form/static/css/main.963ddf50.css",
+    "main.js": "/varnika234/form/static/js/main.e259c795.js",
+    "static/media/signup.png": "/varnika234/form/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/varnika234/form/static/media/login.4d877a447365e5137b67.png",
+    "static/media/img2.jpg": "/varnika234/form/static/media/img2.90b27e6b9bdf7c05a92c.jpg",
+    "static/media/img1.avif": "/varnika234/form/static/media/img1.e9e30bec9fa447b9b305.avif",
+    "static/media/frame.png": "/varnika234/form/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/varnika234/form/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/varnika234/form/index.html",
+    "main.963ddf50.css.map": "/varnika234/form/static/css/main.963ddf50.css.map",
+    "main.e259c795.js.map": "/varnika234/form/static/js/main.e259c795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963ddf50.css",
+    "static/js/main.e259c795.js"
+  ]
+}
