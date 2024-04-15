@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="w-screen h-screen bg-richblack-900 flex flex-col">
       <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>
-
+      <h1> Hii.. Welcome To My Dashboard </h1>
       <Routes>
         <Route path="/" element= {<Home isLoggedIn={isLoggedIn}/>} />
         <Route path="/about" element= {<About isLoggedIn={isLoggedIn}/>} />
